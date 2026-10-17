@@ -8,6 +8,15 @@ A portable four-dimension review warehouse, station-and-date weather joins, data
 
 ![Implementation mechanism: Business station and review date → Exact station-date weather join → Retain unmatched reviews → Monthly count and average stars → Report temperature and coverage separately](assets/mechanism.svg)
 
+
+
+## Reproduce and inspect
+
+The executable reproduction profile now records exact commands, input/source hashes, dependency versions, logs and pass/fail status. Its scope distinguishes behavior checks from full-data benchmarks.
+
+[Commands, artifacts and benchmark scope](BENCHMARKS.md) · [Versioned profiles](reproduction.json)
+
+
 ## Try a small example
 
 A small offline fixture exercises the public implementation. It demonstrates the behavior shown below; it does not replace the historical dataset, benchmark or production validation.
