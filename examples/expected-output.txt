@@ -1,0 +1,8 @@
+{
+  "matched_max_temperature_f": 80.0,
+  "monthly_summary": [
+    1,
+    4.0,
+    1
+  ]
+}
