@@ -64,3 +64,7 @@ Prepare your own inputs as described in [DATA.md](DATA.md). Tests use generated 
 ## Practical relevance and limitations
 
 Joining by date requires that reviews and weather refer to the same station region; apply a geographic restriction before interpretation. Weather–rating correlations do not establish causation. No live Snowflake run or warehouse scale benchmark is claimed.
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
