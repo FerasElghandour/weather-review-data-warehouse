@@ -2,7 +2,7 @@
 
 **Feras Elghandour** · Technical case study
 
-Join review activity with daily weather observations through explicit staging, operational, and analytical data layers.
+Join review activity with daily weather observations while preserving geographic context and measuring data coverage.
 
 ## Implementation
 
